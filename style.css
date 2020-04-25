@@ -1,0 +1,44 @@
+body {
+    background: lightgrey;
+  }
+
+.thumbnail h1{
+
+color:rgb(80, 201, 195);    
+}
+
+.container-fluid h2{
+    color:rgb(80, 201, 195);
+    font-weight:bold;
+}
+
+.container-fluid h6{
+    font-weight:normal;
+}
+
+.container-fluid table{
+    border-style:hidden;
+}
+  
+
+  footer {
+      position:fixed;
+      width:100%;
+      display:block;
+      color:white;
+      text-align:center;
+      background-color:grey;
+      bottom: 0px;
+      left:0px;
+      border-top:10px solid rgb(80, 201, 195);
+  }
+  
+  
+ @media (max-width: 600px) {
+   .navbar{
+       background-color:rgb(80, 201, 195);
+   }
+   .nav-item{
+       color:lightgrey;
+   }
+}
