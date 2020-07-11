@@ -123,6 +123,4 @@ Large screen:
 Small screen:
 ![nav menu small screen](Images/nav-sm.png)
 
-### Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
